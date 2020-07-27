@@ -86,12 +86,12 @@
     <string name="graphic_eq_preset_w_shaped">W-şekilli</string>
     <string name="graphic_eq_preset_personal">Kişisel</string>
 
-    <string name="preset_reverb_small_room">Küçük oda</string>
-    <string name="preset_reverb_medium_room">Orta oda</string>
-    <string name="preset_reverb_large_room">Büyük oda</string>
-    <string name="preset_reverb_medium_hall">Orta salon</string>
-    <string name="preset_reverb_large_hall">Büyük salon</string>
-    <string name="preset_reverb_plate">Plate</string>
+    <string name="preset_reverb_small_room">Küçük boy oda</string>
+    <string name="preset_reverb_medium_room">Orta boy oda</string>
+    <string name="preset_reverb_large_room">Büyük boy oda</string>
+    <string name="preset_reverb_medium_hall">Orta boy salon</string>
+    <string name="preset_reverb_large_hall">Büyük boy salon</string>
+    <string name="preset_reverb_plate">Levha</string>
 
     <!-- Units -->
     <string name="unit_milliseconds">ms</string>
