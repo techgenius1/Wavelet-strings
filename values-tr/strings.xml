@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Henüz yeni bir müzik oturumu başlatılmadı!\n
+      Yardıma ihtiyacınız varsa, lütfen 3 nokta menüsüne dokunun</string>
+    <string name="single_user_warning">Lütfen bu uygulamayı sistem kullanıcısı olarak yükleyin</string>
+    <string name="warning_library_null">Wavelet %s efektlerini başlatamadı</string>
+    <string name="warning_no_browser">%s URLsi açılamadı</string>
+    <string name="warning_billing_service">Hata %d: Ödeme hizmeti kullanılamıyor</string>
+    <string name="paid_feature">Tüm özelliklerin kilidini %s ile açabilirsiniz</string>
+    <string name="unlock">Kilidini aç</string>
+
+    <!-- Menu -->
+    <string name="menu_legacy_mode">Eski mod</string>
+    <string name="menu_help">Yardım</string>
+    <string name="menu_reduce_clipping">Kırpmayı azalt</string>
+    <string name="clipping_over_latency">Gecikme yerine kırpma tercih edilir</string>
+    <string name="latency_over_clipping">Kırpmaya yerine gecikme tercih edilir/string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Wavelet servisi</string>
+    <string name="service_description">Ses ayarlarınızı korumak için Wavelet servisi</string>
+    <string name="service_notification_title">%s bağlandı</string>
+    <string name="service_notification_text">Wavelet kullanan uygulamalar: %s</string>
+    <string name="service_notification_text_default">Daha fazla seçenek için dokunun</string>
+
+    <string name="device_unknown">Bilinmiyor</string>
+    <string name="device_headphone">Kulaklık</string>
+    <string name="device_headset">Kulaküstü kulaklık</string>
+    <string name="device_speaker">Hoparlör</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">İşitme cihazı</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Sıfırla</string>
+    <string name="category_equalization">Dengeleyici</string>
+    <string name="auto_eq_title">OtomatikEq</string>
+    <string name="auto_eq_dialog_title">Kulaklık Modeli</string>
+    <string name="auto_eq_import">İçe Aktar</string>
+    <string name="auto_eq_file_import_success">%s Başarıyla içe aktarıldı</string>
+    <string name="auto_eq_file_import_fail">%s içe aktarılamadı</string>
+    <string name="auto_eq_remove_item">Öğeyi kaldır</string>
+    <string name="graphic_eq_title">Grafik ekolayzer</string>
+    <string name="graphic_eq_dialog_title">Kişisel ön ayarın üzerine yaz</string>
+    <string name="graphic_eq_presets">Ön Ayarlar</string>
+
+    <string name="category_effects">Effects</string>
+    <string name="bass_boost_title">Bass booster</string>
+    <string name="bass_boost_strength">Bass boost strength</string>
+    <string name="preset_reverb_title">Reverberation</string>
+    <string name="preset_reverb_preset">Preset</string>
+    <string name="virtualizer_title">Virtualizer</string>
+    <string name="virtualizer_strength">Virtualization strength</string>
+    <string name="bass_tuner_title">Bass tuner</string>
+    <string name="bass_tuner_type">Bass type</string>
+    <string name="bass_tuner_type_natural">Natural</string>
+    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
+    <string name="bass_tuner_cutoff_frequency">Cutoff frequency</string>
+    <string name="bass_tuner_post_gain">Post-gain</string>
+
+    <string name="category_gain_control">Gain control</string>
+    <string name="limiter_title">Limiter</string>
+    <string name="limiter_attack_time">Attack time</string>
+    <string name="limiter_release_time">Release time</string>
+    <string name="limiter_ratio">Ratio</string>
+    <string name="limiter_threshold">Threshold</string>
+    <string name="limiter_post_gain">Post-gain</string>
+    <string name="channel_balance_title">Channel balance</string>
+    <string name="channel_balance_left_gain">Channel gain left</string>
+    <string name="channel_balance_right_gain">Channel gain right</string>
+
+    <string name="graphic_eq_preset_flat">Flat</string>
+    <string name="graphic_eq_preset_dark">Dark</string>
+    <string name="graphic_eq_preset_bright">Bright</string>
+    <string name="graphic_eq_preset_bass_boost">Bass boost</string>
+    <string name="graphic_eq_preset_bass_reduction">Bass reduction</string>
+    <string name="graphic_eq_preset_treble_boost">Treble boost</string>
+    <string name="graphic_eq_preset_treble_reduction">Treble reduction</string>
+    <string name="graphic_eq_preset_loudness">Loudness</string>
+    <string name="graphic_eq_preset_vocal_boost">Vocal boost</string>
+    <string name="graphic_eq_preset_m_shaped">M-shaped</string>
+    <string name="graphic_eq_preset_u_shaped">U-shaped</string>
+    <string name="graphic_eq_preset_v_shaped">V-shaped</string>
+    <string name="graphic_eq_preset_w_shaped">W-shaped</string>
+    <string name="graphic_eq_preset_personal">Personal</string>
+
+    <string name="preset_reverb_small_room">Small room</string>
+    <string name="preset_reverb_medium_room">Medium room</string>
+    <string name="preset_reverb_large_room">Large room</string>
+    <string name="preset_reverb_medium_hall">Medium hall</string>
+    <string name="preset_reverb_large_hall">Large hall</string>
+    <string name="preset_reverb_plate">Plate</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+</resources>
